@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "participant-name":"Anmol",
+        "contact":"9862545712",
+        "response":"Wonderful",
+        "response-type":"String"
+    },
+    {
+        
+        "id":"2",
+        "participant-name":"Prem",
+        "contact":"9862542112",
+        "response":"Fantastic",
+        "response-type":"String"
+        
+    }
+]
